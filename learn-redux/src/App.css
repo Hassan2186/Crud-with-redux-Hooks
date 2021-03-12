@@ -1,0 +1,10 @@
+.app {
+  margin: auto;
+  padding: 100px 0;
+  width: 80%;
+  box-sizing: border-box;
+  text-align: center;
+  background: rgba(255, 220, 220,0.3);
+}
+
+
